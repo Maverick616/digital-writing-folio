@@ -12,7 +12,7 @@
 I do fiction, screenwriting and rarely poetry.
 
 ### What tools or techniques do you use to write?
-Tools: Pen and Paper, Microsoft Word, FadeIn, the Internet. Techniques: literary techniques, fiction writing techniques.
+Tools: Pen and Paper, Microsoft Word, FadeIn, Notes, the Internet. Techniques: literary techniques, fiction writing techniques, brainstorming, dot points.
 
 ### Why do you use these tools or techniques?
 Because they're useful and necessary to make what I write the best it can be.
