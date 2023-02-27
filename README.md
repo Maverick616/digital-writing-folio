@@ -1,4 +1,5 @@
 # Digital Writing Folio
 
-[Readings](readings.md)
-[Exercises](exercises.md)
+## [Readings](readings.md)
+
+## [Exercises](exercises.md)
