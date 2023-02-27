@@ -2,11 +2,11 @@
 
 ## Week 1
 
-- ~~[ ] Add a repository for the folio~~
-- ~~[ ] What types of writing do you do (ie fiction, nonfiction, poetry, other)?~~
-- ~~[ ] What tools or techniques do you use to write?~~
-- ~~[ ] Why do you use these tools or techniques?~~
-- ~~[ ] How do these tools shape the way you write (e.g., constrain the way you facilitate your writing)?~~
+- [x] Add a repository for the folio
+- [x] What types of writing do you do (ie fiction, nonfiction, poetry, other)?
+- [x] What tools or techniques do you use to write?
+- [x] Why do you use these tools or techniques?
+- [x] How do these tools shape the way you write (e.g., constrain the way you facilitate your writing)?
 
 ### What types of writing do you do (ie fiction, nonfiction, poetry, other)?
 I do fiction, screenwriting and rarely poetry.
