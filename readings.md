@@ -16,3 +16,4 @@ Examples of Electronic Literature are: Hypertext fiction, network fiction, inter
 Damn Shade is hella deep. 
 IF = Interactive fiction, and text based IFs are apparently quite popular with blind gamers (kinda cool).
 The word 'bomb' blinking creates tension and therefore adds a layer that only digital literature can accomplish.
+Depression Quest removing the objective best choices because the main character isn't confident or motivated enough to pursue them is pretty based.
