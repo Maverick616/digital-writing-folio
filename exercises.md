@@ -31,7 +31,7 @@ I got "Along the Briny Beach".
 The vertical scrolling text is pretty the same, the same kind of format too. It differs mainly in introducing horizontally scrolling text, different words, and also in different colours.
 It is I would say approximately as successful as the original, the additional horizontally scrolling text doesn't really add anything however.
 
-## Week 3
+## Week 4
 
-### Glitch Remixes
+### Glitch Remix
 - The [Kinetic Poem](https://imaginary-ossified-alamosaurus.glitch.me/) and its [Repository](https://github.com/Maverick616/kinetic-poem-remix).
