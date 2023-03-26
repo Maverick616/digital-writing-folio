@@ -17,3 +17,18 @@ Damn Shade is hella deep; reading about it in the reading makes me feel like a n
 IF = Interactive fiction, and text based IFs are apparently quite popular with blind gamers (kinda cool).
 The word 'bomb' blinking creates tension and therefore adds a layer that only digital literature can accomplish.
 Depression Quest removing the objective best choices because the main character isn't confident or motivated enough to pursue them is pretty based.
+
+## Week 3: The Desolation
+
+
+
+## Week 4: The First Fight
+
+
+
+## Week 5: The End of the Beginning
+
+### Hypertexts
+
+Twine is sort of kind of a hypertext system... apparently? You use hypertexts to interact with Twine pieces, but Twine pieces are more seen as 'games' than 'literature' I think. It seems Twine is the most recent iteration or medium of hypertext fiction.
+Patterns of Hypertext could be described as TV Tropes but for hypertext fiction.
