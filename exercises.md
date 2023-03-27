@@ -35,3 +35,17 @@ It is I would say approximately as successful as the original, the additional ho
 
 ### Glitch Remix
 - The [Kinetic Poem](https://imaginary-ossified-alamosaurus.glitch.me/) and its [Repository](https://github.com/Maverick616/kinetic-poem-remix).
+
+## Week 5
+
+### How is hypertext fiction different from fiction?
+There's an additional layer of interactivity in hypertext fiction, it's also typically more layered in general.
+
+### How is hypertext fiction different from games?
+Games are something that have a win/lose mindset, hypertext fiction may have multiple endings but it is more just seen as a narrative.
+
+### How do you plan fiction?
+With a brainstorm, which can include characters, themes, plot points, start, end, location, time, genre, and the central idea of the piece.
+
+### How could you plan hypertext fiction?
+Same as fiction, with the addition of branching paths, multiple endings, and possibly the inclusion of patterns of hypertext.
