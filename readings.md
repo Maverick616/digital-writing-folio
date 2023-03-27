@@ -31,4 +31,4 @@ Depression Quest removing the objective best choices because the main character 
 ### Hypertexts
 
 Twine is sort of kind of a hypertext system... apparently? You use hypertexts to interact with Twine pieces, but Twine pieces are more seen as 'games' than 'literature' I think. It seems Twine is the most recent iteration or medium of hypertext fiction.
-Patterns of Hypertext could be described as TV Tropes but for hypertext fiction.
+Patterns of Hypertext could be described as TV Tropes but for hypertext fiction. An interesting 'pattern' is the Tangle. The Tangle is a pattern acutely for hypertext fiction and entails presenting the reader with "a variety of links without providing sufficient clues to guide the reader's choice".
