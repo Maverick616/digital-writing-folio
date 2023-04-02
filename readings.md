@@ -20,15 +20,25 @@ Depression Quest removing the objective best choices because the main character 
 
 ## Week 3: The Desolation
 
+### Public Holiday
 
+See you all for hell next week.
 
 ## Week 4: The First Fight
 
+### Presentations
 
+I thought I had five minutes rip.
 
-## Week 5: The End of the Beginning
+## Week 5: The Last Man Standing
 
 ### Hypertexts
 
 Twine is sort of kind of a hypertext system... apparently? You use hypertexts to interact with Twine pieces, but Twine pieces are more seen as 'games' than 'literature' I think. It seems Twine is the most recent iteration or medium of hypertext fiction.
 Patterns of Hypertext could be described as TV Tropes but for hypertext fiction. An interesting 'pattern' is the Tangle. The Tangle is a pattern acutely for hypertext fiction and entails presenting the reader with "a variety of links without providing sufficient clues to guide the reader's choice".
+
+## Week 6: The End of the Beginning
+
+### Riddles?
+
+Riddle = Interactive Fiction? "What lives in a river?" is a pretty weak-sauce poem imo. Neck-riddles are riddles that require special knowledge to be guessed and therefore cannot be confidently answered by just anyone (an example being Bilbo's riddle in The Hobbit). The line between riddles, jokes, and questions can be pretty blurry. Situational puzzles are similar to interactive fiction as said puzzles lay out and describe all necessary information (allowing follow up questions) and asks the listener to give the full context of the situation. Riddles and interactive fictions should both be challenging and fair; both should provide sufficient clues to reach the correct answer without hitting a bad end (but not be spelled out to the reader/listener). “Every proper riddle must fulfill two conditions: the first is its social function as a competition between the riddler and riddlees; the second is its literary form, which must be difficult and enigmatic, yet containing the clues necessary to decipher it”.
