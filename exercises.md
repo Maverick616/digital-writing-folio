@@ -49,3 +49,6 @@ With a brainstorm, which can include characters, themes, plot points, start, end
 
 ### How could you plan hypertext fiction?
 Same as fiction, with the addition of branching paths, multiple endings, and possibly the inclusion of patterns of hypertext.
+
+### Twine Story
+- A [Twine Story](https://adam-smasher-abczyz666.netlify.app/) and its [repository](https://github.com/Maverick616/digital-writing-twine)
