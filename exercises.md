@@ -52,3 +52,8 @@ Same as fiction, with the addition of branching paths, multiple endings, and pos
 
 ### Twine Story
 - A [Twine Story](https://adam-smasher-abczyz666.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-twine).
+
+## Week 6
+
+### Inform Story
+tbd
