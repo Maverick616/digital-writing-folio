@@ -64,4 +64,4 @@ tbd
 ## Week 7
 
 ### Howler Audio Exercise
-- A [Howler Audio Exercise](https://bitter-trusting-chipmunk.glitch.me/) and its [Repository](https://github.com/Maverick616/howler-audio-example).
+- The [Howler Audio Exercise](https://bitter-trusting-chipmunk.glitch.me/) and its [Repository](https://github.com/Maverick616/howler-audio-example).
