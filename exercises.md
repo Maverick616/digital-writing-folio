@@ -59,7 +59,7 @@ Same as fiction, with the addition of branching paths, multiple endings, and pos
 tbd
 
 ### Bitsy Story
-- A [Bitsy Experiment](https://bitsy-646623.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-bitsy/blob/main/README.md)
+- A [Bitsy Experiment](https://bitsy-646623.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-bitsy/blob/main/README.md).
 
 ## Week 7
 
