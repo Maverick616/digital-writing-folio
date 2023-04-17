@@ -59,9 +59,9 @@ Same as fiction, with the addition of branching paths, multiple endings, and pos
 tbd
 
 ### Bitsy Story
-tbd
+- A [Bitsy Experiment](https://bitsy-646623.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-bitsy/blob/main/README.md)
 
 ## Week 7
 
 ### Howler Audio Exercise
-A [Howler Audio Exercise](https://bitter-trusting-chipmunk.glitch.me/) and its [Repository](https://github.com/Maverick616/howler-audio-example).
+- A [Howler Audio Exercise](https://bitter-trusting-chipmunk.glitch.me/) and its [Repository](https://github.com/Maverick616/howler-audio-example).
