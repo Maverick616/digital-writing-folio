@@ -57,3 +57,7 @@ Same as fiction, with the addition of branching paths, multiple endings, and pos
 
 ### Inform Story
 tbd
+
+### Bitsy Story
+tbd
+
