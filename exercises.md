@@ -61,3 +61,6 @@ tbd
 ### Bitsy Story
 tbd
 
+## Week 7
+
+A [Howler Audio Example](https://bitter-trusting-chipmunk.glitch.me/) and its [Repository](https://github.com/Maverick616/howler-audio-example).
