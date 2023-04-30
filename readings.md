@@ -1,6 +1,6 @@
 # Readings
 
-## Week 1: The Beginning of the End
+## Week 1: The First Dawn
 
 ### Electronic Literature: What is it?
 
@@ -50,3 +50,15 @@ Riddle = Interactive Fiction? "What lives in a river?" is a pretty weak-sauce po
 "Ultimately, art game design is motivated by two major factors. First, experimental game designers seek to express their specific identities and artistic agendas in unique, idiosyncratic ways, which they would not be able to do in a larger, commercialist production environment. And second, art game designers aim to broaden the horizons of game culture and to help develop videogames into an established art form." Classic Indie vs AAA; it's more accurate to say that indie designers create unique games because they can't make something as technically and visually strong as the AAA backed designers.
 "Metagames, that is, games that are about games and gaming, are among the most salient and poignant forms of art games. They use metaludic design strategies, such as borrowing or emulating interface items from other games; intertextuality; and intermediality, often in a tongue-in-cheek manner." I think what I'm planning to make for my project may have some metagame properties...
 "Video games are a language, a grammar or linguistics for various texts. The sounds, the movement, the graphics, the rules (or lack of rules), everything about a video game is a component of some kind of language." Video games are literature.
+
+## Week 8: The Second Stage
+
+### Proposals
+
+Twine or Renpy?
+
+## Week 9: The Beginning of the End
+
+### White Supremacy?
+
+So Electronic Literature isn't inherently racist but it can be... isn't that like everything? George Floyd shoutout (he was kneeling on him for eight minutes my god). IF can be used to critique cultural infrastructure and incite change.
