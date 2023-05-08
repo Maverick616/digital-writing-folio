@@ -75,4 +75,4 @@ Visual Novel players, Dating Sims players, and/or Anime fans.
 You have to make sure you cater to your audiences tastes to an extent, so you don't alienate them or make your work so obscure that very few people would enjoy it. Also if you know your audience and know what they're expecting you can play with and subvert those expectations.
 
 ### Glitch Remix
-- The [Simple Keyframe Animation](https://burnt-cypress-dinosaur.glitch.me/) and its [Repository](https://github.com/Maverick616/simple-keyframe-animation-remix).
+- A [Simple Keyframe Animation](https://burnt-cypress-dinosaur.glitch.me/) and its [Repository](https://github.com/Maverick616/simple-keyframe-animation-remix).
