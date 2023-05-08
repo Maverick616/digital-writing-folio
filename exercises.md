@@ -65,3 +65,11 @@ tbd
 
 ### Howler Audio Exercise
 - The [Howler Audio Exercise](https://bitter-trusting-chipmunk.glitch.me/) and its [Repository](https://github.com/Maverick616/howler-audio-example).
+
+## Week 10
+
+### Who is your audience for your developed creative work?
+Visual Novel players, Dating Sims players, and/or Anime fans.
+
+### How does having an audience in mind affect the development of the work?
+You have to make sure you cater to your audiences tastes to an extent, so you don't alienate them or make your work so obscure that very few people would enjoy it.
