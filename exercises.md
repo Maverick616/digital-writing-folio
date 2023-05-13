@@ -56,7 +56,7 @@ Same as fiction, with the addition of branching paths, multiple endings, and pos
 ## Week 6
 
 ### Inform Story
-tbd
+- An [Inform Story](https://inform-piece-a63e17.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-inform).
 
 ### Bitsy Story
 - A [Bitsy Experiment](https://bitsy-646623.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-bitsy/blob/main/README.md).
