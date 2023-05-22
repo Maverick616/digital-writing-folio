@@ -56,7 +56,7 @@ Same as fiction, with the addition of branching paths, multiple endings, and pos
 ## Week 6
 
 ### Inform Experiment
-- An [Inform Experiment](https://inform-piece-a63e17.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-inform).
+- An [Inform Experiment](https://holo-inform-piece-a63e17.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-inform).
 
 ### Bitsy Experiment
 - A [Bitsy Experiment](https://bitsy-646623.netlify.app/) and its [Repository](https://github.com/Maverick616/digital-writing-bitsy).
