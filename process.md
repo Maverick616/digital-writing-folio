@@ -6,3 +6,4 @@ Going into the proposal, my project plan is a parody dating sim visual novel mad
 ### Entry 2: Renpy
 Okay so I started playing around with Renpy... woah. Once I got used to it I not only easily fixed the music problem, but I can do so much more than I could with Twine! I can move the sprites around with animations, I can have scene transitions, and it overall looks infinitely better. Damn I shoulda used Renpy from the start lol. The only problem is the IF game within a game idea I had for the Thriller route. You can embed/make games in the game/code, but that looks fairly complicated. I may not have the time to spare to figure it out, and if not I may just utilise Renpy's multiple choice and flags to emulate something similar to inform7.
 
+### Entry 3: Submission
